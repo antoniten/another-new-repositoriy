@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\MyProjects\LoginProject-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="E:\AndroidStudioProjects\MyProjects\LoginProject-master\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_9fb0788d94938ac08675dc4fd3e6af7dadd1fa7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\MyProjects\LoginProject-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="E:\AndroidStudioProjects\MyProjects\LoginProject-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.0_25d1da31ef4161ada8bc6031b4eab13a0f6c8c44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\MyProjects\LoginProject-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="E:\AndroidStudioProjects\MyProjects\LoginProject-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.0_fc7fca7d6fed444b7406ee713a584cc7a111912e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\MyProjects\LoginProject-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="E:\AndroidStudioProjects\MyProjects\LoginProject-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.0_b88b8e51693286c72db6d0452da22e769f35a4e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\MyProjects\LoginProject-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="E:\AndroidStudioProjects\MyProjects\LoginProject-master\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.0_43eddd58a79606ad231228e8456fda8ef75a12a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\SDK\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="E:\AndroidStudioProjects\MyProjects\LoginProject-master\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.0_15f37ed179c87151e02fb391851e49f0b9b5909d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\MyProjects\LoginProject-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="E:\AndroidStudioProjects\MyProjects\LoginProject-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.0_a48d41c132c4dddc609fe6a18d7b0c5acbada365.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\MyProjects\LoginProject-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\AndroidStudioProjects\MyProjects\LoginProject-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.0_500aa3dcd5f11faab7b963285650693056b1b058.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\MyProjects\LoginProject-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="E:\AndroidStudioProjects\MyProjects\LoginProject-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.0_b2ff166b017d28654238434d2173efa53c133f08.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\MyProjects\LoginProject-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="E:\AndroidStudioProjects\MyProjects\LoginProject-master\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_40b3695fc82ddef6729cd848c7a15591d27fb6c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\MyProjects\LoginProject-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="E:\AndroidStudioProjects\MyProjects\LoginProject-master\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_08a3f742e8e38676feaf7bd3337cdc257cec657b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\MyProjects\LoginProject-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="E:\AndroidStudioProjects\MyProjects\LoginProject-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.0_ebf168313eb5218ca44a3413d2501d3bb844e419.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\MyProjects\LoginProject-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="E:\AndroidStudioProjects\MyProjects\LoginProject-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.0_5bcb6911c90384375ed7d689fc43517f18db5620.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\MyProjects\LoginProject-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="E:\AndroidStudioProjects\MyProjects\LoginProject-master\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_8a8f37a26350a4029f4f58b02fd3a8be4caaa893.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\MyProjects\LoginProject-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="E:\AndroidStudioProjects\MyProjects\LoginProject-master\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_867a097a7abc3c8e8ad9b3f004f0cb81341a5b17.jar" />
+    </item>
+
+</items>
